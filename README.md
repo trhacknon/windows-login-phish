@@ -1,7 +1,7 @@
 # Windows Login Phishing page
 
 ## Use this link to preview without downloading/cloning. 
-https://htmlpreview.github.io/?https://github.com/CipherKill/windows-login-phish/blob/main/docs/preview/index.html
+https://htmlpreview.github.io/?https://github.com/trhacknon/windows-login-phish/blob/main/docs/preview/index.html
 
 <p float='left'>
 <img src="./docs/Screenshots/cover(victim).png" width="300px"></img>
